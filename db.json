@@ -14,8 +14,8 @@
     },
     {
       "name":"consent",
-      "version":1,
-      "content":"You hereby consent to IDEMIA using your biometric data and other personal information to be processed by the Liveness demo application. Biometric data will be purged upon completion of this process after 30 minutes. Once you are enrolled, your selfie will remain in your phone until you either uninstall the application or press “Clear Users”.",
+      "version":2,
+      "content":"You hereby__ consent to IDEMIA using your biometric data and other personal information to be processed by the Liveness demo application. Biometric data will be purged upon completion of this process after 30 minutes. Once you are enrolled, your selfie will remain in your phone until you either uninstall the application or press “Clear Users”.",
       "link":""
     }
   ]
