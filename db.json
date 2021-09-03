@@ -1,0 +1,22 @@
+{
+  "metadata":[
+    {
+      "name":"Terms and conditions",
+      "version":2,
+      "content":"",
+      "link":"https://bioserver.psi.wbs.com/privacy/psi-liveness-application-ts-and-cs.html"
+    },
+    {
+      "name":"Privacy Policy",
+      "version":1,
+      "content":"",
+      "link":"https://bioserver.psi.wbs.com/privacy/idemia-privacy-policy.html"
+    },
+    {
+      "name":"consent",
+      "version":1,
+      "content":"You hereby consent to IDEMIA using your biometric data and other personal information to be processed by the Liveness demo application. Biometric data will be purged upon completion of this process after 30 minutes. Once you are enrolled, your selfie will remain in your phone until you either uninstall the application or press “Clear Users”.",
+      "link":""
+    }
+  ]
+}
