@@ -1,22 +1,10 @@
 {
-  "metadata":[
-    {
-      "name":"Terms and conditions",
-      "version":1,
-      "content":"",
-      "link":"https://bioserver.psi.wbs.com/privacy/psi-liveness-application-ts-and-cs.html"
-    },
-    {
-      "name":"Privacy Policy",
-      "version":1,
-      "content":"",
-      "link":"https://bioserver.psi.wbs.com/privacy/idemia-privacy-policy.html"
-    },
-    {
-      "name":"consent",
-      "version":10,
-      "content":"You hereby consent to IDEMIA using your biometric data and other personal information to be processed by the Liveness demo application. Biometric data will be purged upon completion of this process after 30 minutes. Once you are enrolled, your selfie will remain in your phone until you either uninstall the application or press “Clear Users”.",
-      "link":""
-    }
-  ]
+    "access_token": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJGSjg2R2NGM2pUYk5MT2NvNE52WmtVQ0lVbWZZQ3FvcXRPUWVNZmJoTmxFIn0.eyJleHAiOjE2NDk4NDg2NDEsImlhdCI6MTY0OTg0ODM0MSwianRpIjoiNmI4NzkyYWUtODJlYy00NzMwLWFlMDctZDNmYzVjOGNlNzNkIiwiaXNzIjoiaHR0cHM6Ly9rZXljbG9hay5tYmlzLWRldi5pZGVtaWEuY29tOjgwL2F1dGgvcmVhbG1zL01CSVMiLCJhdWQiOiJhY2NvdW50Iiwic3ViIjoiODc5MmU4YTctNzk4Ni00ZDMyLTkzMmQtMmVjYmQ4NzY0NTlmIiwidHlwIjoiQmVhcmVyIiwiYXpwIjoiVkVSTyIsInNlc3Npb25fc3RhdGUiOiI3NWIxZWM0OS1lZDliLTRiMzYtODIzZi00NmIwNDBlOWFjNTkiLCJhY3IiOiIxIiwiYWxsb3dlZC1vcmlnaW5zIjpbImh0dHBzOi8vYmlzYXBwLm1iaXMtZGV2LmlkZW1pYS5jb206ODQ0MyJdLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsib2ZmbGluZV9hY2Nlc3MiLCJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoicHJvZmlsZSBlbWFpbCIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwicHJlZmVycmVkX3VzZXJuYW1lIjoidmVybyIsImF1dGhvcml6YXRpb25fZ3JvdXBzIjpbIlZFUk9fQWRtaW5pc3RyYXRpb24iLCJWRVJPX0Zhc3QgQXV0aGVudGljYXRpb25fT25saW5lIiwiVkVST19GYXN0IElkZW50aWZpY2F0aW9uX09ubGluZSIsIlZFUk9fRmFzdCBJZGVudGlmaWNhdGlvbl9vZmZsaW5lIiwiVkVST19XYW50ZWQgTGlzdCIsIlZFUk9fcmVnaXN0cmF0aW9uX09mZmxpbmUiLCJWRVJPX3JlZ2lzdHJhdGlvbl9PbmxpbmUiXX0.qSS0-MFtWqj5VkxLs6yF8qeEJlxAwTMcoMSuCd7E4HNdYoDBr6DSCn_v-ImVKV6Fg8Wr8ARRAdXTrOrB20FiaTRRcMhooiP65srP_QjbaCTmGMliOC9OjDZzyZlR3Kj78qlc39mw-17yvSU3lWlIsoycEPtggPlslZ7mYJcdXmo",
+    "expires_in": 300,
+    "refresh_expires_in": 1800,
+    "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJmODgwMDNiMC0xOGJlLTRkZTctYTdiNy04NGZhOTg1ZGFlNTQifQ.eyJleHAiOjE2NDk4NTAxNDEsImlhdCI6MTY0OTg0ODM0MSwianRpIjoiYjVmYTcxMDYtYjg1ZS00YzlkLWI0MDktYTVlZGU4ODc3MDU0IiwiaXNzIjoiaHR0cHM6Ly9rZXljbG9hay5tYmlzLWRldi5pZGVtaWEuY29tOjgwL2F1dGgvcmVhbG1zL01CSVMiLCJhdWQiOiJodHRwczovL2tleWNsb2FrLm1iaXMtZGV2LmlkZW1pYS5jb206ODAvYXV0aC9yZWFsbXMvTUJJUyIsInN1YiI6Ijg3OTJlOGE3LTc5ODYtNGQzMi05MzJkLTJlY2JkODc2NDU5ZiIsInR5cCI6IlJlZnJlc2giLCJhenAiOiJWRVJPIiwic2Vzc2lvbl9zdGF0ZSI6Ijc1YjFlYzQ5LWVkOWItNGIzNi04MjNmLTQ2YjA0MGU5YWM1OSIsInNjb3BlIjoicHJvZmlsZSBlbWFpbCJ9.NB-KaL85eLpli3Z7yhINT9XKAd1_2erzQc_ZE7tRl0s",
+    "token_type": "bearer",
+    "not-before-policy": 1612889413,
+    "session_state": "75b1ec49-ed9b-4b36-823f-46b040e9ac59",
+    "scope": "profile email"
 }
